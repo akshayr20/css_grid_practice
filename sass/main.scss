@@ -1,0 +1,34 @@
+.container {
+	margin: 30px auto;
+	background-color: #eee;
+	.item {
+		padding: 16px;
+		&__1 {
+			background-color: red;
+		}
+		&__2 {
+			background-color: aqua;
+		}
+		&__3 {
+			background-color: yellowgreen;
+		}
+		&__4 {
+			background-color: blue;
+		}
+		&__5 {
+			background-color: green;
+		}
+		&__6 {
+			background-color: violet;
+		}
+		&__7 {
+			background-color: indigo;
+		}
+		&__8 {
+			background-color: skyblue;
+		}
+		&__9 {
+			background-color: orange;
+		}
+	}
+}
